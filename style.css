@@ -14,6 +14,7 @@ body {
     background-color: #0072bb;
     color: #ffffff;
 }
+/*Made all blue color consistent with #0072bb*/
 
 .header h1 {
     display: inline-block;
@@ -58,6 +59,7 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg"); 
     background-size: cover;
     background-position: center;
+/*Reduced height of image for asthetic purposes*/
     
     
       
@@ -90,6 +92,8 @@ p {
     color: #ffffff;
     background-color: #0072bb;
 }
+/*Reduced padding for consistent layout*/
+
 
 .benefit-lead {
     margin-bottom: 62px;
